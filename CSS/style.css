@@ -1,7 +1,10 @@
 body {
     background-color: rgb(221, 232, 237);
-    margin: 0% 3%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 10px;
 }
+
 h1{
     color:rgb(73, 147, 122);
     border-bottom: 1px solid #2b7194;
